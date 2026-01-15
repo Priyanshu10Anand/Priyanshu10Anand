@@ -3,7 +3,7 @@
 </a>
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=6A3FFF&width=435&lines=I+am+learning+python+for+data+science+along+with+a+bit+of+android+dev+using+Kotlin.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=1000&color=6A3FFF&width=435&lines=I+am+learning+python+for+data+science+;along+with+a+bit+of+android+dev+using+Kotlin.)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
