@@ -1,9 +1,9 @@
- <a href="https://github.com/Priyanshu10Anand">
+<a href="https://github.com/Priyanshu10Anand">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=Priyanshu10Anand&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
 # 💫 About Me:
-I am learning python for data science, along with a bit of android dev
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=6A3FFF&center=true&width=435&lines=I+am+learning+python+for+data+science+along+with+a+bit+of+android+dev+using+Kotlin.)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
