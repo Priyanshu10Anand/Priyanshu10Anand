@@ -1,3 +1,7 @@
+ <a href="https://github.com/Priyanshu10Anand">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=Priyanshu10Anand&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+</a>
+
 # 💫 About Me:
 I am learning python for data science, along with a bit of android dev
 
